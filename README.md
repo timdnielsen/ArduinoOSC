@@ -1,4 +1,4 @@
-# ArduinoOSC
+# ArduinoOSC 
 This code is designed to connect an Arduino to the ETC EOS control system.  Connection is via USB and messages are sent
 using Open Show Control (OSC) protocol.
 
