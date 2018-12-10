@@ -14,6 +14,7 @@ Scale would be the next step-  multiple sensors controlling multiple lights.
 
 Code given below
 
+'''
 *******************************************************************************
  * Includes
  ******************************************************************************/
@@ -302,3 +303,4 @@ delay(1);
    
     
 }
+'''
